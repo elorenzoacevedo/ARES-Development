@@ -35,6 +35,8 @@ public class MainMenu extends JFrame implements ActionListener{
 	 */
 	public static void main(String[] args) {
 
+		System.out.println("testing");
+
 		new MainMenu();
 		
 	}
